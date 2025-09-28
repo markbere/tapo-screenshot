@@ -1,10 +1,10 @@
 # Tapo webcam RTSP Screenshot Tool
 
-A Python tool for capturing screenshots from Tapo C51A security cameras via RTSP protocol. Supports configuration files for easy credential management and offers both OpenCV and FFmpeg backends.
+A Python tool for capturing screenshots from Tapo security cameras via RTSP protocol. Supports configuration files for easy credential management and offers both OpenCV and FFmpeg backends.
 
 ## Features
 
-- 📸 Capture high-quality screenshots from Tapo C51A cameras
+- 📸 Capture high-quality screenshots from Tapo cameras
 - 🔧 Configuration file support for secure credential storage
 - 🎯 Two backend options: OpenCV and FFmpeg
 - ⏰ Automatic timestamp-based file naming
